@@ -1,0 +1,14 @@
+[
+    {
+        "Nombre": "María",
+        "Edad": 30,
+        "Comuna": "Concepción",
+        "Estado": "Mayor de edad"
+    },
+    {
+        "Nombre": "Estela",
+        "Edad": 25,
+        "Comuna": "Puerto Montt",
+        "Estado": "Mayor de edad"
+    }
+]
